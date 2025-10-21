@@ -1,0 +1,65 @@
+# Privacy Policy
+
+**Last Updated:** October 21, 2025
+
+## Data Collection
+
+Jukeborgee temporarily processes the following data in memory only:
+
+- Server IDs and channel IDs for music playback routing
+- Voice channel connection status
+- Music queue (song URLs and titles)
+- User IDs for game state (e.g., roulette chambers)
+- Temporary audio files for DRM-protected content
+
+## Data Usage
+
+- **Server/Channel IDs:** Route commands to correct voice channels
+- **Queue Data:** Manage playback order of requested songs
+- **User IDs:** Track individual game states
+- **Temp Files:** Enable playback of content that cannot be streamed directly
+
+## Data Retention
+
+**We do not retain any data permanently:**
+
+- All data stored in memory only
+- Queue data cleared when bot stops, leaves server, or playback ends
+- Game states cleared when game completes or bot restarts
+- Temporary audio files automatically deleted after 2 hours or when removed from queue
+- No databases, logs, or persistent storage used
+- Bot restart clears all data
+
+## Third-Party Services
+
+The bot uses the following third-party services:
+
+- **YouTube API:** Fetch video metadata
+- **Spotify API:** Convert Spotify links to YouTube searches
+- **Discord API:** Bot functionality
+- **yt-dlp:** Extract audio streams
+
+These services have their own privacy policies. We do not control or retain data processed by these services.
+
+## Data Sharing
+
+- No user data is sold, shared, or transferred to third parties
+- No analytics or tracking
+- No data collection for marketing purposes
+
+## User Rights
+
+- Stop using the bot to prevent data processing
+- Kick bot from server to immediately clear all server-related data from memory
+
+## Security
+
+All data processing occurs in volatile memory and is automatically cleared on bot restart or when no longer needed.
+
+## Contact
+
+For questions about this Privacy Policy, contact [Your Contact Information].
+
+## Changes to This Policy
+
+This policy may be updated. Continued use of the bot constitutes acceptance of any changes.
