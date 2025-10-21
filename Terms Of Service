@@ -1,0 +1,119 @@
+# Terms of Service
+
+**Last Updated:** October 21, 2025
+
+## Acceptance of Terms
+
+By inviting, using, or interacting with Jukeborgee, you agree to these Terms of Service. If you do not agree, do not use the bot.
+
+## Description of Service
+
+Jukeborgee is a Discord bot that provides:
+
+- Music playback from YouTube and Spotify
+- Voice channel connectivity
+- Entertainment commands and games
+
+## Bot Usage
+
+- Bot provided "as is" without warranties of any kind
+- Music playback requires valid YouTube or Spotify URLs
+- Bot must be in a voice channel to play music
+- Bot automatically disconnects when all users leave voice channel
+- No data is retained permanently - all processing is temporary
+
+## User Responsibilities
+
+You are responsible for:
+
+- Content you request through the bot
+- Ensuring you have rights to access requested content
+- Complying with Discord's Terms of Service
+- Complying with YouTube and Spotify Terms of Service
+- Not violating copyright laws
+
+## Prohibited Uses
+
+You may not:
+
+- Spam or abuse bot commands
+- Use bot to harass other users
+- Attempt to exploit, hack, or break bot functionality
+- Use bot to distribute malware or malicious content
+- Use bot in violation of Discord, YouTube, or Spotify policies
+- Request copyrighted content you don't have rights to access
+
+## Content and Copyright
+
+- Bot does not host, permanently store, or distribute copyrighted content
+- Bot acts as an interface to third-party services (YouTube, Spotify)
+- Users are solely responsible for ensuring their use complies with copyright law
+- Temporary audio files are created only when necessary and automatically deleted
+
+## Service Limitations
+
+The bot may experience:
+
+- Service interruptions or downtime
+- Failed playback due to source unavailability or DRM protection
+- Playlist limits (50 tracks maximum)
+- Maintenance periods
+- Third-party API rate limits or restrictions
+
+## No Warranties
+
+Bot is provided "as is" without warranties including but not limited to:
+
+- Merchantability
+- Fitness for a particular purpose
+- Continuous or error-free operation
+- Accuracy of results
+
+## Limitation of Liability
+
+We are not liable for:
+
+- Service interruptions or errors
+- Failed playback attempts
+- Data loss (bot retains no data)
+- Third-party service limitations
+- Copyright infringement by users
+- Any damages arising from bot use
+
+## Third-Party Services
+
+Bot relies on:
+
+- **YouTube:** https://www.youtube.com/t/terms
+- **Spotify:** https://www.spotify.com/legal/end-user-agreement/
+- **Discord:** https://discord.com/terms
+
+You agree to comply with all third-party terms of service.
+
+## Termination
+
+- We reserve the right to terminate or restrict bot access for ToS violations
+- Users may stop using bot at any time by kicking it from their server
+- No notice is required for termination
+
+## Changes to Terms
+
+- Terms may be modified at any time
+- Continued use after changes constitutes acceptance
+- Check this document periodically for updates
+
+## Indemnification
+
+You agree to indemnify and hold harmless the bot operator from any claims arising from your use of the bot or violation of these terms.
+
+## Governing Law
+
+These terms are governed by applicable local laws.
+
+## Contact
+
+For questions about these Terms of Service, contact [Your Contact Information].
+
+## Severability
+
+If any provision is found unenforceable, remaining provisions remain in effect.
